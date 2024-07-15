@@ -1,0 +1,28 @@
+body{
+    margin:0;
+    padding:0;
+    background:rgb(2,0,36);
+    place-items: center;
+    display:grid;
+    /* background: linear-gradient(90deg, rgba(0,35,36,1) 0%, rgba(63,207,210,0.3310574229691877) 35%, rgba(0,212,255,1) 100%); */
+}
+.container{
+    color:white;
+    width:100vw;
+    height:100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size:10rem;
+    font-weight: bold;
+    
+    
+}
+#wrapper
+{
+
+    border:2px solid grey;
+    padding:12rem;
+    border-radius:25px;
+    background: linear-gradient(135deg, #14ffe9, #ffeb3b, #ff00e0);
+}
